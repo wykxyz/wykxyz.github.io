@@ -1,23 +1,23 @@
-# Site settings
-title: totoday blog
-SEOTitle: 初学者|totoday
+﻿# Site settings
+title: wyk blog
+SEOTitle: 小白|wyk
 header-img: img/home-bg.jpg
-email: totodayqiang@163.com
-description: "这里是 @totoday 的个人博客，与你一起发现更大的世界。"
-keyword: "totoday, 博客, 个人网站, 互联网"
-url: "http://totoday.cn"              # your host, for absolute URL
+email: YouKun_Wu@163.com
+description: "这里是 @wyk 的个人博客，与你一起发现更大的世界。"
+keyword: "wyk, 博客, 个人网站, 互联网"
+url: "http://huangxuan.me"           # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     totodayqiang
-zhihu_username:     totoday
-github_username:    totoday
+weibo_username:     u/3873355226
+zhihu_username:     xiao-kun-ge-66
+github_username:    wykxyz
 # twitter_username:  
-# facebook_username:  totoday
-linkedin_username :  totoday
+# facebook_username:  
+linkedin_username :  有堃-吴-527775122
 
 
 
@@ -51,7 +51,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: totoday
+duoshuo_username: wyk
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
@@ -63,14 +63,13 @@ duoshuo_share: false                     # set to false if you want to use Comme
 ba_track_id: 358e6f99fe886e79648e11f1e7442f32
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: totoday.cn
-
+#ga_domain: huangxuan.me
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "走出千万人群独行，往柳暗花明山穷水尽去"
-sidebar-avatar: /img/avatar-totoday.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "只要活着就有好吃的额。"
+sidebar-avatar: /img/avatar-wyk.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -83,11 +82,8 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "AndyBear",
-        href: "http://zhangzixun.top/"
-    },{
-        title: "九日学长",
-        href: "http://blog.csdn.net/u014086851"
+        title: "小堃哥",
+        href: "http://blog.csdn.net/u013554860"
     },{
         title: "马天猫",
         href: "http://blog.csdn.net/miracle_ma"
