@@ -1,10 +1,10 @@
-﻿---
+---
 published:  true
 layout:     post
 
-title:      "hello"
-subtitle:   "Hello-world"
-author:     "wyk"
+title:      "线段树"
+subtitle:   "Hello，SegmentTree"
+author:     "totoday"
 header-img: "img/post-bg-segmenttree.jpg"
 header-mask: 0.3
 catalog:    true
