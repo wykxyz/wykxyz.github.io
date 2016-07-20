@@ -2,9 +2,9 @@
 title: wyk blog
 SEOTitle: 小白|wyk
 header-img: img/home-bg.jpg
-email: totodayqiang@163.com
-description: "这里是 @totoday 的个人博客，与你一起发现更大的世界。"
-keyword: "totoday, 博客, 个人网站, 互联网"
+email: YouKun_Wu@163.com
+description: "这里是 @wyk 的个人博客，与你一起发现更大的世界。"
+keyword: "wyk, 博客, 个人网站, 互联网"
 url: "http://totoday.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
